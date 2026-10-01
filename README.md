@@ -9,7 +9,7 @@ I work with interactivity and data, moving between media arts and tactile sculpt
 **Instagram:** [@juliayooart](https://www.instagram.com/juliayooart/)
 
 
-## Projects
+## Recent Creative Projects
 
 | Project | Date |
 | --- | --- |
