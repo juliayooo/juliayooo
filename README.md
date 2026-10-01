@@ -4,7 +4,7 @@ Multidisciplinary artist and creative technologist from Toronto, Canada, based i
 
 I work with interactivity and data, moving between media arts and tactile sculpture, and I explore technology as an experience, a medium, and a subject. I'm interested in the limits of computing and what they say about the human-computer relationship.
 
-<img width="286" height="425" alt="image" src="https://github.com/user-attachments/assets/cbd738a0-93a1-422d-aa36-9cf582eae5d1" />
+<img width="286" height="425" alt="megif" src="https://github.com/user-attachments/assets/8a172f8a-bff8-4d4d-a26f-c79c28902ad3" />
 
 **Portfolio:** [juliayoo.com](https://juliayoo.com)
 **LinkedIn:** [julia-yoo](https://www.linkedin.com/in/julia-yoo-92a7282b5/)
